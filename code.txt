@@ -1,0 +1,150 @@
+[
+    {
+        "nome": "Elida cruz",
+        "empresa": "Amabet",
+        "funcao": "Gestão de processos",
+        "segmento": "Cassino",
+        "email": "elida@amabet.bet"
+    },
+    {
+        "nome": "Amanda Leandro de Lima",
+        "empresa": "Bet agora",
+        "funcao": "Marketing",
+        "segmento": "Casa de apostas",
+        "email": "manndileandro@gmail.com"
+    },
+    {
+        "nome": "Victor Damásio de sou/",
+        "empresa": "Tips",
+        "funcao": "Affiliate manager",
+        "segmento": "Bet",
+        "email": "victordamasio.s@gmail.com"
+    },
+    {
+        "nome": "Nicolas Pedro Souza Miller",
+        "empresa": "Greenfoot",
+        "funcao": "Gestor",
+        "segmento": "Igamming",
+        "email": "nicolas.psmiller@gmail.com"
+    },
+    {
+        "nome": "Geraldo Lima",
+        "empresa": "Clube da Sorte",
+        "funcao": "COO",
+        "segmento": "Marketing agency",
+        "email": "geraldolima.f@hotmail.com"
+    },
+    {
+        "nome": "Renan Silva do Carmo",
+        "empresa": "Imperium ltda",
+        "funcao": "Affiiliate",
+        "segmento": "Marketing",
+        "email": "dricrenan@gmail.com"
+    },
+    {
+        "nome": "Bernardo Carlis Oliveira de Medeiros",
+        "empresa": "Imperium Ltda",
+        "funcao": "Affiiliate",
+        "segmento": "Marketing",
+        "email": "bernardocarliswin@gmail.com"
+    },
+    {
+        "nome": "Leticia Rio Branco",
+        "empresa": "Latam Intersect PR",
+        "funcao": "Coordenadora",
+        "segmento": "Marketing",
+        "email": "leticiar.riobranco@latamintersectpr.com"
+    },
+    {
+        "nome": "Victor Oliva Menezes",
+        "empresa": "Canal Atrativos",
+        "funcao": "Jornalista",
+        "segmento": "Reportagem",
+        "email": "victorolivamenezes@bol.com.br"
+    },
+    {
+        "nome": "Guilherme Lopes da Luz",
+        "empresa": "VSJ",
+        "funcao": "Dono",
+        "segmento": "Igaming",
+        "email": "gui_lopes_13@hotmail.com"
+    },
+    {
+        "nome": "Felipe",
+        "empresa": "Telecos",
+        "funcao": "Afiliado",
+        "segmento": "Afiliado",
+        "email": "fliptm95@gmail.com"
+    },
+    {
+        "nome": "Lucas huback",
+        "empresa": "Huback",
+        "funcao": "Ceo",
+        "segmento": "Marketing",
+        "email": "contatolucashuback@gmail.com"
+    },
+    {
+        "nome": "Mateus Figueiredo Nunes",
+        "empresa": "Betpass",
+        "funcao": "CMO",
+        "segmento": "Afiliado",
+        "email": "matfnunes@hotmail.com"
+    },
+    {
+        "nome": "Danilo Mendes da Silva",
+        "empresa": "Grupo OTG",
+        "funcao": "Supervisor de Tráfego Pago",
+        "segmento": "Aposta Esportiva",
+        "email": "danl_men@outlook.com"
+    },
+    {
+        "nome": "Jehan Hernández",
+        "empresa": "FacilitoBet",
+        "funcao": "Ti",
+        "segmento": "sportbook",
+        "email": "Jehanronald@facilitobet.com"
+    },
+    {
+        "nome": "Priscilla Machado",
+        "empresa": "Monte Filmes",
+        "funcao": "Empresária",
+        "segmento": "Media",
+        "email": "primachado2013@gmail.com"
+    },
+    {
+        "nome": "Rodrigo Silva Medeiros",
+        "empresa": "Betpass",
+        "funcao": "Affiliate manager",
+        "segmento": "Afiliados",
+        "email": "rodrigo.medeiros@betpass.me"
+    },
+    {
+        "nome": "Natália Goulart",
+        "empresa": "Pipefy",
+        "funcao": "New business",
+        "segmento": "Automação e gestão de processo",
+        "email": "nagoans@hormail.com"
+    },
+    {
+        "nome": "Kelwynn Andrade",
+        "empresa": "Diamond partners",
+        "funcao": "CEO",
+        "segmento": "Aflliate",
+        "email": "kelwynnandrade@hotmail.com"
+    },
+    {
+       "nome": "Erika",
+       "empresa":"UPBET",
+       "funcao": "Marketing",
+       "segmento":"Bets",
+       "email":"erikadearaujoo@gmail.com"
+
+    },
+    {
+        "nome": "Chairen Motta Justiniano",
+        "empresa":"Jonbet",
+        "funcao": "Hostess",
+        "segmento": "Bet",
+        "email": "chairenmotta@gmail.com"
+    }
+]
